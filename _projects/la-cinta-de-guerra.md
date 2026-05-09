@@ -1,18 +1,14 @@
 ---
-title: "La Cinta de San Jorge: Símbolo de Invasión, No de Memoria"
+title: "La Cinta de San Jorge: Símbolo de la Invasión de Ucrania, No de Memoria"
 excerpt: "Análisis exhaustivo sobre la metamorfosis del símbolo, la ingeniería histórica del Kremlin y el marco legal que criminaliza su crítica."
 date: 2026-05-08
-venue: "Expediente FIMI - Nodo Madrid"
+venue: "Expediente FIMI - Nodo España"
 paperurl: "/files/Press_Kit_Propaganda.pdf"
 citation: "Sistema Argos. (2026). 'La Cinta de San Jorge: Del Símbolo Zarista al Emblema de la Invasión'. Informe de Inteligencia OSINT."
 ---
 
----
-
 ## title: La Cinta de San Jorge: Del Símbolo Zarista al Emblema de la Invasión de Ucrania
 
-description: Un análisis exhaustivo sobre la metamorfosis del símbolo, la ingeniería histórica del Kremlin y el marco legal que criminaliza su crítica.   
-category: Análisis de Propaganda   
 tags: \[Geopolítica, Desinformación, Rusia, Memoria Histórica\]  
 La Ley Federal N.º 579-FZ (2022) \- [Федеральный закон от 29.12.2022 г. № 579-ФЗ • Президент России](http://www.kremlin.ru/acts/bank/48829)
 
