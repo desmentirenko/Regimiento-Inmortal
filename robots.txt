@@ -1,4 +1,1 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://desmentirenko.github.io/Regimiento-Inmortal/sitemap.xml
+User-agent: * Disallow: Sitemap: https://desmentirenko.github.io/Regimiento-Inmortal/sitemap.xml
