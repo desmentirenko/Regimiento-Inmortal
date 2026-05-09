@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La Cinta de San Jorge: Del Símbolo Zarista al Emblema de la Invasión
+title: "La Cinta de San Jorge: Del Símbolo Zarista al Emblema de la Invasión"
 description: Un análisis exhaustivo sobre la metamorfosis del símbolo, la ingeniería histórica del Kremlin y el marco legal que criminaliza su crítica.
 img: assets/img/telegram/portada-dossier.jpg # Imagen en miniatura
 importance: 1
